@@ -30,7 +30,7 @@ namespace Torch.Server
 
         private const string RUNSCRIPT = @"force_install_dir ../
 login anonymous
-app_update 298740
+app_update 298740 beta 1.196
 quit";
 
         private TorchConfig _config;
